@@ -9,3 +9,4 @@ Currently, ANNScreen is only supports major foreign exchange (FX or forex) curre
 This application makes use of some wonderful libraries and resources to accomplish its task:
   1. [FANN](https://github.com/libfann/fann) - used for the logical core of the application
   2. [Charts](https://github.com/danielgindi/Charts) - used for financial data and statistical visualization
+  3. [Jazzy](https://github.com/realm/jazzy) - for documentation of ANNScreen's codebase
